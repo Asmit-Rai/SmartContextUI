@@ -1,0 +1,23 @@
+<svg viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+  <!-- Code brackets representing UI context -->
+  <path d="M36 36L20 64l16 28" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.85"/>
+  <path d="M92 36l16 28-16 28" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.85"/>
+  <!-- Neural/smart nodes -->
+  <circle cx="64" cy="42" r="9" fill="#fff"/>
+  <circle cx="46" cy="72" r="7" fill="#fff" opacity="0.9"/>
+  <circle cx="82" cy="72" r="7" fill="#fff" opacity="0.9"/>
+  <circle cx="64" cy="94" r="6.5" fill="#fff" opacity="0.8"/>
+  <!-- Connecting lines (neural network / context links) -->
+  <line x1="64" y1="51" x2="46" y2="65" stroke="#fff" stroke-width="4.5" opacity="0.6"/>
+  <line x1="64" y1="51" x2="82" y2="65" stroke="#fff" stroke-width="4.5" opacity="0.6"/>
+  <line x1="46" y1="79" x2="64" y2="87.5" stroke="#fff" stroke-width="4.5" opacity="0.6"/>
+  <line x1="82" y1="79" x2="64" y2="87.5" stroke="#fff" stroke-width="4.5" opacity="0.6"/>
+</svg>
