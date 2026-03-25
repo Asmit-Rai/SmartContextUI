@@ -37,25 +37,25 @@ And once you get the explanation, you can **keep chatting** — ask follow-up qu
 
 **On GitHub — right-click the Code button:**
 
-<img src="src/assets/screenshots/Screenshot 2026-03-23 at 7.10.05 PM.png" alt="SmartContextUI on GitHub showing the Code button explanation" width="100%" style="border-radius: 12px;" />
+<img src="src/assets/screenshots/screenshot-github-element.png" alt="SmartContextUI on GitHub showing the Code button explanation" width="100%" />
 
 <br/>
 
 **Scroll through the full explanation with use cases:**
 
-<img src="src/assets/screenshots/Screenshot 2026-03-23 at 7.10.11 PM.png" alt="SmartContextUI showing use cases and related elements" width="100%" style="border-radius: 12px;" />
+<img src="src/assets/screenshots/screenshot-github-usecases.png" alt="SmartContextUI showing use cases and related elements" width="100%" />
 
 <br/>
 
 **Works everywhere — even on AWS CloudWatch:**
 
-<img src="src/assets/screenshots/Screenshot 2026-03-23 at 7.11.57 PM.png" alt="SmartContextUI explaining a CloudWatch Configuration Link" width="100%" style="border-radius: 12px;" />
+<img src="src/assets/screenshots/screenshot-aws-cloudwatch.png" alt="SmartContextUI explaining a CloudWatch Configuration Link" width="100%" />
 
 <br/>
 
 **Works on the AWS Console dashboard too:**
 
-<img src="src/assets/screenshots/Screenshot 2026-03-23 at 7.16.51 PM.png" alt="SmartContextUI on AWS Console showing CloudShell explanation" width="100%" style="border-radius: 12px;" />
+<img src="src/assets/screenshots/screenshot-aws-console.png" alt="SmartContextUI on AWS Console showing CloudShell explanation" width="100%" />
 
 ---
 
